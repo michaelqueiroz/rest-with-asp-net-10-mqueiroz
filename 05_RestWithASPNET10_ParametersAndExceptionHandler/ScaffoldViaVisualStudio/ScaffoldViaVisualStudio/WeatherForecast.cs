@@ -1,4 +1,4 @@
-namespace RestWithASPNET10Mqueiroz
+namespace ScaffoldViaVisualStudio
 {
     public class WeatherForecast
     {

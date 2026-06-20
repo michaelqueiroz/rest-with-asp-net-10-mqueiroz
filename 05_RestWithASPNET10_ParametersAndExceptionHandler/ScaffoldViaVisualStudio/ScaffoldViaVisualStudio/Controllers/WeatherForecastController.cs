@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace RestWithASPNET10Mqueiroz.Controllers
+namespace ScaffoldViaVisualStudio.Controllers
 {
     [ApiController]
     [Route("[controller]")]
